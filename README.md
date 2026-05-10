@@ -52,9 +52,11 @@ The objective was to generate data-driven insights to improve **customer retenti
 
 ![Banking-CRM-Churn-Analysis-PowerBI-Project](Documents/Business_Performance.png)
 
-![Data Analytics Project](Dashboards/Customer_Analytics.jpg)
+![Banking-CRM-Churn-Analysis-PowerBI-Project](Documents/Customer_Profile.png)
 
-![Data Analytics Project](Dashboards/Product_Performance.jpg)
+![Banking-CRM-Churn-Analysis-PowerBI-Project](Documents/Product_Behaviour.png)
+
+![Banking-CRM-Churn-Analysis-PowerBI-Project](Documents/Churn_Driver.png)
 
 
 
