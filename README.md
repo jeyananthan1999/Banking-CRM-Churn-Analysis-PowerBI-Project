@@ -46,7 +46,16 @@ The objective was to generate data-driven insights to improve **customer retenti
 - Customer segmentation analysis  
 - Churn trend visualization  
 - Region-wise and demographic performance analysis  
-- Interactive filters for dynamic insights  
+- Interactive filters for dynamic insights
+
+## Dashboards
+
+![Banking-CRM-Churn-Analysis-PowerBI-Project](Documents/Business_Performance.png)
+
+![Data Analytics Project](Dashboards/Customer_Analytics.jpg)
+
+![Data Analytics Project](Dashboards/Product_Performance.jpg)
+
 
 
 
